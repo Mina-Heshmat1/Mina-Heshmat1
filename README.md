@@ -20,7 +20,7 @@
 - :computer: I am a competitive programmer.
 - :student: I’m currently learning `java` and `Dart`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](file:///D:/cv/Cv%20Mina.pdf).
 <br>
 
 
