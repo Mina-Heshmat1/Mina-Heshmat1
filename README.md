@@ -143,7 +143,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/Mina-Heshmat1/chat-gbt">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://user-images.githubusercontent.com/121980036/232779421-d4e61c72-78cc-4227-ab02-28114533dfda.png" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
