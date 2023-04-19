@@ -128,20 +128,11 @@
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Certificates
+### <picture> <img src = "https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width = 50px>  </picture> Certificates
  
 <p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
-</p>
+	<a href="https://user-images.githubusercontent.com/121980036/233036997-9d60fdb6-15d4-4b3d-8872-769c9aad95da.jpg"><img img src="https://user-images.githubusercontent.com/121980036/233043467-a7f66efa-4d1a-4631-8f57-7147c1d89c6f.png" alt="Gmail"/></a>
+	<a href="https://user-images.githubusercontent.com/121980036/233040805-58f0cd0c-8cd4-45ea-ba3c-d8efbbe48ccf.jpg"><img src="https://user-images.githubusercontent.com/121980036/233047949-3f326009-1f1b-44c7-a231-6da3f93f6c76.png"
 
 <br> 
 
