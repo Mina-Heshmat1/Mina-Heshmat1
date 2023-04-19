@@ -20,7 +20,7 @@
 - :computer: I am a competitive programmer.
 - :student: I’m currently learning `java` and `Dart`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://user-images.githubusercontent.com/121980036/232791408-2b6b5101-0869-4d5a-b6d2-358a8bb6bc5e.png).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://user-images.githubusercontent.com/121980036/233102036-96c8f37b-be3b-4696-b2e9-67a5337ebffb.png).
 <br>
 
 
